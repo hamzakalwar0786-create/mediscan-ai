@@ -1,0 +1,10 @@
+{
+  "name": "MediScan AI",
+  "description": "AI-Powered Clinical Document Scanner & Health Intelligence Portal for instant report decoding and chat-based diagnostic support.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

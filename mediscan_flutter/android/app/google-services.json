@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701928762388",
+    "project_id": "dr-med-21ecf",
+    "storage_bucket": "dr-med-21ecf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701928762388:android:c4c7f3076e23729b9f4b01",
+        "android_client_info": {
+          "package_name": "medai.com.mediscan_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPV41JEWhqOOJDOMs0hZwHps0x5iOL0uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
